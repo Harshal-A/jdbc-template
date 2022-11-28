@@ -1,4 +1,3 @@
-JDBC Template
+## JDBC Template
 
-
-JdbcTemplate HandsOn
+- JdbcTemplate HandsOn
